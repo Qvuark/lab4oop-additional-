@@ -1,0 +1,59 @@
+﻿  lab4oop(sfml GUI).cpp
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(13,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(29,41): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(29,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,93): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,93): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,93): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,93): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,93): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,87): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,87): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,87): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,87): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(38,87): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(54,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(54,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,45): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,45): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,45): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,45): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,40): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,40): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,40): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(80,40): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,60): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,60): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,60): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,60): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,42): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,42): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,42): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(81,42): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,45): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,45): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,45): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,45): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,45): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,40): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,40): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,40): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,40): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(82,40): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,60): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,60): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,60): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,60): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,60): warning C4244:         ]
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,42): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,42): warning C4244:         with
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,42): warning C4244:         [
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,42): warning C4244:             T=float
+C:\Users\roma1\source\repos\lab4oop(add)\lab4oop\lab4oop(sfml GUI).cpp(83,42): warning C4244:         ]
+  lab4oop.vcxproj -> C:\Users\roma1\source\repos\lab4oop(add)\x64\Debug\lab4oop.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
